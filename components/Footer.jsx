@@ -7,7 +7,7 @@ import { FaDiscord } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <div className="mb-0 ml-0 mr-0">
+    <div className="mb-0 ml-0 bg-[#F4F9F3] mr-0">
       <Image src={FooterImage} />
       <div className="absolute mt-[-400px] ml-8">
         <Image src={Ellipse1} height={300} width={300} />
