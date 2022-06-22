@@ -1,5 +1,5 @@
 import React from 'react';
-//import { NavBar, Footer } from '../components';
+import { NavBar, Footer } from '../components';
 
 const Profile = () => {
   return (
