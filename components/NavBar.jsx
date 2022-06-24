@@ -30,7 +30,7 @@ const style = {
 }
 
 const NavBar = () => {
-  //onst [toggleMenu, setToggleMenu] = React.useState(false);
+  const [toggleMenu, setToggleMenu] = React.useState(false);
   const [status, setStatus] = React.useState(null);
   const [account, setCurrentAccount] = React.useState('');
   const { isOpen, onOpen, onClose } = useDisclosure()
