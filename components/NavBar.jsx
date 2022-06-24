@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import React, { useEffect } from 'react'
 import Image from 'next/image';
-import Profile from '../assets/face.png';
+//import Profile from '../assets/face.png';
 import { Icon } from 'web3uikit';
 import {
   Drawer,
