@@ -35,7 +35,7 @@ const NavBar = () => {
   const [account, setCurrentAccount] = React.useState('');
   const { isOpen, onOpen, onClose } = useDisclosure()
   const [active, setActive] = React.useState('Home');
-  const router = useRouter();
+  //const router = useRouter();
 
   useEffect(() => {
     checkActive(active, setActive, router);
