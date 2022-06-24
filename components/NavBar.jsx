@@ -25,7 +25,7 @@ const style = {
   logoText: ` ml-[0.8rem] text-black font-bold text-3xl`,
   space: `md:flex md:flex-1 flex md:w-[28vw] flex-0 w-[100%] mr-[3px] mx-[0.8rem] w-max-[650px] items-center bg-[#363840] rounded-[0.8rem] hover:bg-[#4c505c]`,
   headerItems: `md:flex w-full items-center justify-end`,
-  //headerItem: `text-black md:mt-[0px] mt-[10px] px-4 font-bold text-[#29303a] hover:text-[#c8cacd] cursor-pointer`,
+  headerItem: `text-black md:mt-[0px] mt-[10px] px-4 font-bold text-[#29303a] hover:text-[#c8cacd] cursor-pointer`,
   headerIcon: `text-[#8a939b] md:mt-[0px] mt-[10px] text-3xl font-bold px-4 hover:text-[#c8cacd] cursor-pointer`,
 }
 
