@@ -4,7 +4,7 @@ import Ellipse2 from "../assets/Subtract.png";
 
 const Banner = () => {
   return (
-    <div className="bg-[#F4F9F3] mt-[-13px]">
+    <div className="bg-[#F4F9F3] mt-[-14px]">
       <div className="flex justify-center mt-20 align-middle h-[50vh] w-full">
         <div className="flex pt-20 pl-5 pr-5 pb-4">
           <div className="ml-[-200px] mr-[206px]">
