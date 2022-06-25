@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Ellipse1 from "../assets/Ellipse 2.png";
-//import Ellipse2 from "../assets/Subtract.png";
+import Ellipse2 from "../assets/Subtract.png";
 
 const Banner = () => {
   return (
