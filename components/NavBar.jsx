@@ -12,7 +12,7 @@ import {
   useDisclosure,
 } from '@chakra-ui/react'
 import { useRouter } from 'next/router';
-import Web3 from 'web3';
+//import Web3 from 'web3';
 import { CgProfile } from 'react-icons/cg'
 import { MdOutlineAccountBalanceWallet } from 'react-icons/md';
 import { ConnectButton } from "web3uikit";
