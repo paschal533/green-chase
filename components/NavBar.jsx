@@ -38,7 +38,7 @@ const NavBar = () => {
   const router = useRouter();
 
   useEffect(() => {
-    //checkActive(active, setActive, router);
+    checkActive(active, setActive, router);
   }, [router.pathname]);
 
   const generateLink = (i) => {
