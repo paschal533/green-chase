@@ -32,7 +32,7 @@ const style = {
 const NavBar = () => {
   const [toggleMenu, setToggleMenu] = React.useState(false);
   const [status, setStatus] = React.useState(null);
-  //const [account, setCurrentAccount] = React.useState('');
+  const [account, setCurrentAccount] = React.useState('');
   const { isOpen, onOpen, onClose } = useDisclosure()
   const [active, setActive] = React.useState('Home');
   const router = useRouter();
